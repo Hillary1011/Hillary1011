@@ -1,28 +1,70 @@
-## Hi there, I'm Hillary 👋
+## 🌐 Hi there, I'm Hillary 👋
+
+`CCNA Certified | Network Operations & Infrastructure | Master’s Student in Information Communication Engineering`
+
+I’m a networking-focused graduate student passionate about reliable, secure, and scalable network infrastructure.
+My work combines hands-on Cisco configuration, network troubleshooting, and Python-based simulation to understand how real-world networks perform, fail, and recover.
+
+🎯 Aspiring roles: NOC Engineer • Network Administrator • Junior Cloud Engineer • IT Support (L2)
+
+## 🔧  What I Do
+- Design and simulate enterprise-style LAN/WAN networks
+
+- Analyze packet behavior, delay, and delivery performance using Python and Wireshark
+  
+- Build and validate enterprise-style network topologies in lab environments
+
+- Configure and support core routing and switching services in LAN and WAN scenarios
+
+- Perform structured network troubleshooting and fault isolation using layered methodologies
+
+- Analyze traffic behavior and network performance to understand reliability and efficiency
+
+- Document configurations, testing procedures, and recovery steps aligned with operational best practices
+
+
+## 🛠️ Technical Focus
+### Networking & Infrastructure
+Enterprise routing and switching • TCP/IP addressing and subnetting • Network segmentation • Core network services (DHCP, DNS, VPN) • Access control and basic security hardening • Network troubleshooting and verification • Cisco-based configuration environments
+
+### Tools & Labs
+Cisco Packet Tracer • Wireshark • VMware • Virtualized Network Labs • GNS3 • 
+
+### Cloud & Automation (Foundations)
+Cloud Networking Concepts • Virtual Networks & Subnets • Routing & Connectivity • Introductory Network Automation with Python
+
+### Languages & development
+Python • Groovy • Javascript • SQL • Git & GitHub 
+
+### 🧪 Featured Project Areas
+
+- Multi-Site Enterprise Network Project
+- Dynamic routing configuration and troubleshooting
+- Packet capture and traffic behavior analysis
+- Python-based network performance evaluation
+
+<!-- ➡️ Explore my repositories below to see real configuration, verification, and troubleshooting workflows.-->
+## 🎓 Certification
+Cisco Certified Network Associate (CCNA)
+
+## 📚 Currently Growing In
+
+- Production-style network monitoring & incident response
+- Cloud-integrated networking fundamentals
+- Network automation and ope
+
+
+## 📫 Let’s Connect
+
+I’m open to internships, graduate roles, and entry-level positions in:
+Network Operations • Network Administration • Cloud Support • IT Infrastructurerational scripting
+
 <a href="https://www.linkedin.com/in/hillary-mapondera-7825b91a1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-
-[Introduction]
-
-I am an Information Communication enthusiast with a strong focus on computer networking and network operations. I have a solid foundation in CCNA-level networking concepts, configuring, troubleshooting, and simulating enterprise-style networks using Cisco technologies and network analysis tools.
-
-My technical interests center on building reliable, secure, and scalable network infrastructures, with practical exposure to LAN/WAN design, routing and switching, IP addressing, VLANs, DHCP, VPNs, and network security fundamentals. In addition to networking, I actively use Python for network simulations, automation experiments, and performance analysis, and I am comfortable working with packet analysis and virtualization environments.
-
-This GitHub repository serves as a practical portfolio showcasing my networking projects, configurations, and hands-on learning aligned with real-world NOC, network administration, and junior cloud support responsibilities.
-
-## Objective
-My journey in Information communication engineering has led me to develop a passion Computer networks andassociated technologies I am eager to actively participate in this field specifically aiming for junior-level opportunities in Network Operations (NOC), Network Administration, Junior Cloud Engineering, or IT Support (Level 2), where I can apply my CCNA-level networking knowledge, hands-on configuration experience, and troubleshooting skills in real operational environments.
-
-My goal is to contribute to day-to-day network monitoring, incident response, configuration management, and infrastructure support while continuing to deepen my expertise in enterprise networking, cloud-integrated networks, and network automation.
-
-## Skills
-| Project                                       | Associated skills        |
-|-----------------------------------------------|----------------------------|
-| Enterprise LAN Design & VLAN Segmentation     | VLAN configuration, trunking (802.1Q), inter-VLAN routing, IP addressing, network segmentation, Cisco IOS |
-| Dynamic Routing Deployment with OSPF          | OSPF area design, neighbor formation, route propagation, routing verification, troubleshooting|
-| DHCP & DNS Service Integration in Enterprise Networks  | DHCP configuration, IP allocation, DNS resolution, service troubleshooting |
+LinkedIn • Email
+<!--**✨Tidbit:** My research background in wireless sensor network routing and performance analysis helps me approach networking with a strong focus on efficiency, reliability, and real-world behavior — not just configuration. -->
 
 
 <!--
